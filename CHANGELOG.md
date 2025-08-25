@@ -1,3 +1,6 @@
+## 3.2.9
+fix: Clean file name by removing query parameters in GallerySaver by @hellohejinyu
+
 ## 3.2.8
 - Refactor example
 
