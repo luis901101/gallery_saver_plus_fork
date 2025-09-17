@@ -1,4 +1,3 @@
-
 const List<String> videoFormats = [
   '.mp4',
   '.mov',
