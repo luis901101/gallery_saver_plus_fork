@@ -12,10 +12,9 @@ Saves images and videos to gallery and photos.
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Carnegie Technologies d.o.o' => 'devoffice@carnegietechnologies.com' }
   s.source           = { :path => '.' }
-  s.source_files = 'Classes/**/*'
-  s.public_header_files = 'Classes/**/*.h'
+  s.source_files = 'gallery_saver_plus/Sources/gallery_saver_plus/**/*.swift'
   s.dependency 'Flutter'
   s.swift_version = '5.0'
-  s.platform = :ios, '11.0'
+  s.platform = :ios, '13.0'
   s.pod_target_xcconfig = { 'DEFINES_MODULE' => 'YES' }
 end

@@ -245,10 +245,10 @@ Saves a video to the device gallery.
 
 ## Requirements
 
-- Flutter >=3.0.0
-- Dart >=3.0.0
-- iOS 11.0+
-- Android API level 21+
+- Flutter >=3.44.0
+- Dart >=3.12.0
+- iOS 13.0+
+- Android API level 24+
 
 ## Contributing
 

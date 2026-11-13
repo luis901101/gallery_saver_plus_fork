@@ -6,8 +6,8 @@ version: 3.2.9
 homepage: https://github.com/open-ci-io/gallery_saver_plus
 
 environment:
-  sdk: '>=3.0.0 <4.0.0'
-  flutter: ">=3.0.0"
+  sdk: ^3.12.0
+  flutter: ">=3.44.0"
 
 module:
   androidX: true
@@ -30,4 +30,4 @@ flutter:
         package: carnegietechnologies.gallery_saver
         pluginClass: GallerySaverPlugin
       ios:
-        pluginClass: GallerySaverPlugin
+        pluginClass: SwiftGallerySaverPlugin
